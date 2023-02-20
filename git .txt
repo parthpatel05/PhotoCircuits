@@ -1,0 +1,6 @@
+git push -u Origin main
+conda activate photo
+python labelImg.py     from the labelImg folder
+
+
+python train.py --img 370 --batch 16 --epoch 5 --data dataset.yml --weights yolov5s.pt
