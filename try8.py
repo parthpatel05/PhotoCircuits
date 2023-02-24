@@ -19,5 +19,3 @@ print(classes)
 # # cv2.imshow("yolo",image)
 # # cv2.waitKey(0)
 
-
-# todo start the training, and the find how to get the xy coordinates
